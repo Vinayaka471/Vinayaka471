@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm **Vinayaka**, a graduate in **Information Science and Engineering** from **PESITM, Shivamogga**.  
+Hi! I'm **Vinayaka**, i am graduate in **Information Science and Engineering** from **PESITM, Shivamogga**.  
 I'm passionate about **Java development**, **Object-Oriented Programming**, and continuously working on **personal tech projects**.  
 I love collaborating on open-source and educational projects, especially in the areas of **Java**, **web development**, and **backend technologies**.  
 Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid web development foundation and preparing to contribute more actively to open-source communities.
