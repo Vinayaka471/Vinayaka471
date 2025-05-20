@@ -18,6 +18,7 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -58,4 +59,3 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 [![](https://visitcount.itsvg.in/api?id=Vinayaka471&icon=0&color=5)](https://visitcount.itsvg.in)
 
 </div>
-
