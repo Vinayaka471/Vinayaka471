@@ -36,6 +36,17 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ---
 
+## 🧠 Frequently Used Tech:
+<div align="center">
+
+![Top Lang: Java](https://img.shields.io/badge/Mostly_Used-Java-blue?style=for-the-badge&logo=java)  
+![Top Lang: MySQL](https://img.shields.io/badge/MySQL-Frequently_Used-005f86?style=for-the-badge&logo=mysql&logoColor=white)  
+![Top Lang: JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies:
 <div align="center">
 
