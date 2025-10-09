@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm **Vinayaka**, i am graduate in **Information Science and Engineering** from **PESITM, Shivamogga**.  
+Hi! I'm **Vinayaka**, a graduate in **Information Science and Engineering** from **PESITM, Shivamogga**.  
 I'm passionate about **Java development**, **Object-Oriented Programming**, and continuously working on **personal tech projects**.  
 I love collaborating on open-source and educational projects, especially in the areas of **Java**, **web development**, and **backend technologies**.  
 Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid web development foundation and preparing to contribute more actively to open-source communities.
@@ -13,7 +13,7 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ## 💻 Tech Stack:
 <div align="center">
-  
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,10 +31,6 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 ![Servlet](https://img.shields.io/badge/Java%20Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Windsurf](https://img.shields.io/badge/Windsurf-3B82F6?style=for-the-badge&logo=windy&logoColor=white)
-
-
-
-
 
 </div>
 
@@ -69,8 +65,17 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ---
 
+## 👀 Profile Insights:
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Vinayaka471&icon=0&color=5)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Vinayaka471&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)  
+![GitHub Followers](https://img.shields.io/github/followers/Vinayaka471?label=Followers&style=for-the-badge&color=blue&logo=github)  
+![GitHub Stars](https://img.shields.io/github/stars/Vinayaka471?label=Stars&style=for-the-badge&color=yellow&logo=github)
 
 </div>
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*  
+💡 *Always open to collaborating on Java and web development projects!*
+
