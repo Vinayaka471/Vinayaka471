@@ -30,7 +30,6 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Java%20Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Windsurf](https://img.shields.io/badge/Windsurf-3B82F6?style=for-the-badge&logo=windy&logoColor=white)
 
 
