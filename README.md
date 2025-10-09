@@ -65,8 +65,23 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ---
 
-![GitHub Followers](https://img.shields.io/github/followers/Vinayaka471?label=Followers&style=for-the-badge&color=blue&logo=github)  
-![GitHub Stars](https://img.shields.io/github/stars/Vinayaka471?label=Stars&style=for-the-badge&color=yellow&logo=github)
+## 🌟 GitHub Profile Insights:
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Vinayaka471&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)  
+<br>
+
+<a href="https://github.com/Vinayaka471?tab=followers">
+  <img src="https://img.shields.io/badge/👥%20Followers-Join%20My%20Community-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Followers Badge"/>
+</a>
+
+<a href="https://github.com/Vinayaka471?tab=repositories">
+  <img src="https://img.shields.io/badge/⭐%20Stars-Show%20Your%20Support-gold?style=for-the-badge&logo=github&logoColor=black" alt="Stars Badge"/>
+</a>
+
+<br><br>
+
+✨ *Thank you for visiting my GitHub profile!* ✨
 
 </div>
 
@@ -74,4 +89,3 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ⭐ *“Code. Learn. Build. Repeat.”*  
 💡 *Always open to collaborating on Java and web development projects!*
-
