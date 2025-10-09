@@ -65,10 +65,6 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ---
 
-## 👀 Profile Insights:
-<div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Vinayaka471&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)  
 ![GitHub Followers](https://img.shields.io/github/followers/Vinayaka471?label=Followers&style=for-the-badge&color=blue&logo=github)  
 ![GitHub Stars](https://img.shields.io/github/stars/Vinayaka471?label=Stars&style=for-the-badge&color=yellow&logo=github)
 
