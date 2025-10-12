@@ -68,8 +68,7 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 ## 🌟 GitHub Profile Insights:
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Vinayaka471&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)  
-<br>
+
 
 <a href="https://github.com/Vinayaka471?tab=followers">
   <img src="https://img.shields.io/badge/👥%20Followers-Join%20My%20Community-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Followers Badge"/>
