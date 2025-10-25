@@ -31,6 +31,8 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 ![Servlet](https://img.shields.io/badge/Java%20Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Windsurf](https://img.shields.io/badge/Windsurf-3B82F6?style=for-the-badge&logo=windy&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-%230072C6.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 </div>
 
