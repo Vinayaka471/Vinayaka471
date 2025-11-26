@@ -33,6 +33,18 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 ![Windsurf](https://img.shields.io/badge/Windsurf-3B82F6?style=for-the-badge&logo=windy&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-%230072C6.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
+</div>
+
+---
+
+## 📌 Most Used Languages
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayaka471&layout=compact&theme=radical&hide_border=true)
+
+![Languages Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinayaka471&theme=radical)
+
+![Repo Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinayaka471&theme=radical)
 
 </div>
 
@@ -69,8 +81,6 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ## 🌟 GitHub Profile Insights:
 <div align="center">
-
-
 
 <a href="https://github.com/Vinayaka471?tab=followers">
   <img src="https://img.shields.io/badge/👥%20Followers-Join%20My%20Community-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Followers Badge"/>
