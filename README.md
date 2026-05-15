@@ -50,14 +50,18 @@ Currently, I'm exploring **HTML**, **CSS**, and **JavaScript** to build a solid 
 
 ---
 
+
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Vinayaka471&theme=radical&hide_border=true&show_icons=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Vinayaka471&theme=radical&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api?username=Vinayaka471&theme=radical&hide_border=true&show_icons=true)
+
+![](https://streak-stats.demolab.com?user=Vinayaka471&theme=radical&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayaka471&theme=radical&hide_border=true&layout=compact)
 
 </div>
+
 
 ---
 
