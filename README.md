@@ -20,6 +20,7 @@ I build end-to-end products — Flutter mobile apps, Laravel and Next.js web pla
 
 - 🔭 Building a **real-time messaging platform** (Flutter + Go + WebSockets + PostgreSQL)
 - 📚 Shipping an **entrance-exam prep app** with a web portal and admin panel
+- 🤖 Building an **AI app for Indian languages** — Kannada, Hindi, Tamil, Telugu & Malayalam
 - 🌱 Going deeper into **system design, Go, and scalable backends**
 - 🤝 Open to **full-time roles, freelance work, and collaborations**
 
@@ -32,7 +33,7 @@ I build end-to-end products — Flutter mobile apps, Laravel and Next.js web pla
 | **Messenger Platform** | Telegram-style chat app — OTP auth, real-time messaging, media storage, push notifications, voice/video calls | Flutter · Go · Next.js · PostgreSQL · Redis · WebRTC · Docker |
 | **Navodaya & Morarji Entrance Exam** | Exam prep for Navodaya, Morarji, NMMS & NTSE — mobile app, website and admin panel | Flutter · Laravel · MySQL |
 | **NearByBooks** | Local second-hand book marketplace for Karnataka | Laravel · Blade · MySQL |
-| **Creator Campaign App** | Influencer–brand campaign app with Kannada, Hindi, Tamil, Telugu & Malayalam support | Flutter · Firebase |
+| **Multilingual AI App** | AI-powered app that works natively in Kannada, Hindi, Tamil, Telugu, Malayalam and English | Flutter · AI / LLM APIs · Firebase |
 
 <!-- Replace each project name above with a link to its repo, e.g. [**NearByBooks**](https://github.com/Vinayaka471/nearbybooks), and pin those repos on your profile. -->
 
@@ -84,7 +85,7 @@ I build end-to-end products — Flutter mobile apps, Laravel and Next.js web pla
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinayaka471&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayaka471&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com/?user=Vinayaka471&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&date_format=j%20M%5B%20Y%5D" />
+<img src="assets/streak.svg" alt="GitHub streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaka471&theme=tokyo-night&hide_border=true&area=true" />
 
